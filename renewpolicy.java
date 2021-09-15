@@ -1,0 +1,4 @@
+class renewpolicy{
+void fund()
+}
+
